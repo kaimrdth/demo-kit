@@ -1,0 +1,17 @@
+{
+  "name": "01-flags-risks",
+  "steps": [
+    {"focus": "Contract Coach"},
+    {"record_start": {"window": "Contract Coach", "pad": 8}},
+    {"wait": 0.6},
+    {"click": {"window": "Contract Coach", "frac": [0.5, 0.9]}},
+    {"wait": 0.5},
+    {"type": "What are the key risks in this NDA?"},
+    {"mark": "asked"},
+    {"keys": "enter"},
+    {"wait_idle": {"quiet": 2.5, "timeout": 120}},
+    {"mark": "answered"},
+    {"screenshot": "01-risk-summary"},
+    {"record_stop": {"after": 1.2}}
+  ]
+}

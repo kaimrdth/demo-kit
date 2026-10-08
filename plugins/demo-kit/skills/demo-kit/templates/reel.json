@@ -1,0 +1,12 @@
+{
+  "size": [1920, 1080],
+  "transition": 0.4,
+  "items": [
+    {"title": "Contract Coach", "subtitle": "Team 4 - Commercial Legal", "seconds": 3},
+    {"clip": "takes/01-flags-risks.mkv", "trim": "0.4-30", "speed": ["6.1-28.4=4"],
+     "caption": "Flags off-standard clauses in seconds"},
+    {"clip": "takes/02-redlines.mkv", "trim": "1.0-14", "caption": "Redlines land in Word"},
+    {"image": "stills/01-risk-summary.png", "seconds": 3, "caption": "Every flag cites the playbook"},
+    {"title": "Thank you", "subtitle": "Find us in the Legal Ops channel", "seconds": 2.5}
+  ]
+}

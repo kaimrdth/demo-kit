@@ -1,0 +1,12 @@
+{
+  "name": "demo-kit",
+  "description": "Demo-building kit: turn what you built into GIFs, a one-pager, a deck and a sizzle reel.",
+  "owner": { "name": "Kai Meredith" },
+  "plugins": [
+    {
+      "name": "demo-kit",
+      "source": "./plugins/demo-kit",
+      "description": "Turn a project into a demo pack: scenario GIFs, one-pager, deck, diagram and sizzle reel (Windows, GIF Capture + PowerPoint)."
+    }
+  ]
+}

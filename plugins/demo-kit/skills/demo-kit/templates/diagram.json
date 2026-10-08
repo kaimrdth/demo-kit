@@ -1,0 +1,18 @@
+{
+  "direction": "LR",
+  "nodes": [
+    {"id": "upload", "label": "Attorney drops in an NDA", "kind": "person"},
+    {"id": "coach", "label": "Contract Coach reviews it", "kind": "agent"},
+    {"id": "playbook", "label": "Clause playbook", "kind": "data"},
+    {"id": "risky", "label": "Off-standard clauses?", "kind": "decision"},
+    {"id": "redlines", "label": "Suggested redlines in Word", "kind": "end"},
+    {"id": "ok", "label": "Marked ready to sign", "kind": "end"}
+  ],
+  "edges": [
+    {"from": "upload", "to": "coach"},
+    {"from": "playbook", "to": "coach"},
+    {"from": "coach", "to": "risky"},
+    {"from": "risky", "to": "redlines", "label": "yes"},
+    {"from": "risky", "to": "ok", "label": "no"}
+  ]
+}

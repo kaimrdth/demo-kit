@@ -1,0 +1,18 @@
+{
+  "title": "Contract Coach",
+  "team": "Team 4",
+  "slides": [
+    {"type": "title", "title": "Contract Coach", "subtitle": "NDA first-pass review in about a minute",
+     "notes": "Introduce the team and say who it's for: anyone on Commercial Legal reviewing NDAs."},
+    {"type": "statement", "text": "First-pass NDA review takes 30-45 minutes, and most of it is the same dozen clauses.",
+     "notes": "Pause here. Most people in the room have done this."},
+    {"type": "media", "title": "Ask it what's risky", "media": "gifs/01-flags-risks.gif",
+     "caption": "The reply is sped up 4x; the real review takes about a minute",
+     "notes": "Point out that each flag cites the playbook position."},
+    {"type": "media-bullets", "title": "Redlines land in Word", "media": "gifs/02-redlines.gif",
+     "bullets": ["Tracked changes, not a summary", "Playbook language", "Attorney stays in control"]},
+    {"type": "diagram", "title": "How it works", "diagram": "diagrams/how-it-works.json"},
+    {"type": "bullets", "title": "What's next",
+     "bullets": ["Pilot with the commercial team", "Add MSAs and DPAs", "Measure turnaround before and after"]}
+  ]
+}

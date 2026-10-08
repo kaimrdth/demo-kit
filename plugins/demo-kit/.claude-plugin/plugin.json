@@ -1,0 +1,9 @@
+{
+  "name": "demo-kit",
+  "displayName": "Demo kit",
+  "version": "0.1.0",
+  "description": "Turn a project into a demo pack: scenario GIFs, one-pager, deck, diagram and sizzle reel. Windows; uses GIF Capture (gifcap) and PowerPoint.",
+  "author": { "name": "Kai Meredith" },
+  "repository": "https://github.com/kaimrdth/demo-kit",
+  "keywords": ["demo", "gif", "hackathon", "presentation", "screen-recording"]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Contract Coach",
+  "tagline": "Reviews NDAs against our playbook in about a minute, so attorneys start from a marked-up draft.",
+  "problem": "First-pass NDA review takes 30-45 minutes and mostly checks the same dozen clauses. Turnaround slows deals, and junior reviewers miss off-standard terms.",
+  "what": [
+    "Compares every clause with the commercial playbook",
+    "Flags off-standard terms with the playbook position",
+    "Drafts redlines straight into Word",
+    "Answers follow-up questions about the agreement"
+  ],
+  "impact": [
+    "First pass in minutes instead of most of an hour",
+    "Consistent positions across the team",
+    "Attorneys spend their time on judgment calls"
+  ],
+  "screenshots": [
+    {"image": "stills/01-risk-summary.png", "caption": "Risk summary"},
+    {"image": "stills/02-redlines.png", "caption": "Redlines in Word"}
+  ],
+  "how": "diagrams/how-it-works.json",
+  "team": "Team 4: A. Rivera, J. Chen, M. Okafor, S. Patel, L. Novak",
+  "contact": "Legal Ops channel"
+}
